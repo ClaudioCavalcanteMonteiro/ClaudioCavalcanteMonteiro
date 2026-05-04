@@ -18,3 +18,53 @@ Tenho forte domínio em Excel, Power BI, Power Query e SQL, além de estar em co
     </a>
 
 </p>
+
+---
+
+### 🤖 Tecnologias
+
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Excel" 
+    title="Excel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" 
+/>
+<img 
+    align="left" 
+    alt="PowerBI" 
+    title="PowerBi"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/96/power-bi.png" 
+/>
+<img 
+    align="left" 
+    alt="AppScript"
+    title="AppScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tableau"
+    title="Tableau" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/96/tableau-software.png" 
+/>
+
+
+
+<br/>
+<br/>
