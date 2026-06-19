@@ -10,7 +10,7 @@
 
 ## 🇺🇸 English
 
-Data Analyst with 10+ years of experience delivering data-driven solutions across agribusiness and education sectors. Currently working as a Data Intelligence Manager, building analytical models, dashboards, and data pipelines that support strategic decision-making.
+Data Analyst / Analytics Engineer with 10+ years of experience delivering data-driven solutions across agribusiness and education sectors. Currently working as a Data Intelligence Manager, building analytical models, dashboards, and data pipelines that support strategic decision-making.
 
 Strong expertise in Excel, Power BI, Power Query, and SQL, with growing experience in Python and Tableau. Focused on advanced analytics, process automation, and scalable data solutions.
 
